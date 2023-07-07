@@ -1,0 +1,533 @@
+@import url("https://fonts.googleapis.com/css2? family= Inconsolata:wght@700 & family= Martian+Mono:wght@100 & family= Montserrat:wght@700 & display=swap");
+
+@import url("https://fonts.googleapis.com/css2? family= Inconsolata:wght@700 & family= Martian+Mono:wght@100 & family= Montserrat:wght@700 & display=swap");
+
+@import url("https://fonts.googleapis.com/css2? family= Inconsolata:wght@700 & family= Martian+Mono:wght@100 & family= Montserrat:wght@100 & display=swap");
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #aea9a9;
+  border-radius: 3px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+body {
+  background-color: #fafafa;
+  overflow-x: hidden;
+}
+
+h2 {
+  position: relative;
+  top: 52px;
+  left: 150px;
+  font-weight: 700;
+  font-size: 35px;
+  font-family: "Inconsolata", monospace;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+  font-size: 36px;
+}
+
+p {
+  position: relative;
+  left: 750px;
+  width: 350px;
+  top: 20px;
+  font-size: 18px;
+  font-weight: lighter;
+  font-family: "Inconsolata", monospace;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+}
+
+#about {
+  position: relative;
+  left: 750px;
+  top: 7px;
+  font-family: "Inconsolata", monospace;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+}
+
+.by {
+  position: relative;
+  top: 550px;
+}
+/* essa vai ser a do bill */
+#imagem1 {
+  width: 250px;
+  height: 348px;
+  position: relative;
+  left: 150px;
+  top: 200px;
+  box-shadow: 0 0 10px #000000;
+}
+
+#Bill {
+  position: relative;
+  top: 240px;
+  left: -105px;
+  font-size: 18px;
+  font-family: "Inconsolata", monospace;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+}
+#owner {
+  transform: rotate(90deg);
+  position: relative;
+  left: 255px;
+  top: 7px;
+  font-size: 27px;
+  font-weight: 400;
+  font-family: "Inconsolata", monospace;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+}
+/* essa vai ser a do bill */
+
+/* essa vai ser da saba */
+#imagem2 {
+  width: 248px;
+  height: 347px;
+  position: relative;
+  left: 515px;
+  top: -30px;
+  box-shadow: 0 0 10px #000000;
+}
+
+#Saba {
+  position: relative;
+  top: 7px;
+  left: 263px;
+  font-size: 18px;
+  font-family: "Inconsolata", monospace;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+}
+
+#art {
+  transform: rotate(90deg);
+  position: relative;
+  top: -225px;
+  left: 615px;
+  font-size: 27px;
+  font-family: "Inconsolata", monospace;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+}
+/* essa vai ser da saba */
+
+/* essa daqui vai ser a do le */
+#image3 {
+  width: 238px;
+  height: 348px;
+  position: relative;
+  top: -567px;
+  left: 875px;
+  box-shadow: 0 0 10px #000000;
+}
+
+#Le {
+  font-size: 18px;
+  position: relative;
+  top: -530px;
+  left: 633px;
+  font-family: "Inconsolata", monospace;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+}
+
+#Lead {
+  font-size: 27px;
+  transform: rotate(90deg);
+  position: relative;
+  top: -768px;
+  left: 965px;
+  font-family: "Inconsolata", monospace;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+}
+/* essa daqui vai ser a do le */
+
+/* essa vai ser da lu */
+#imagem4 {
+  width: 238px;
+  height: 348px;
+  position: relative;
+  top: -300px;
+  left: 160px;
+  box-shadow: 0 0 10px #000000;
+}
+
+#Lu {
+  font-size: 18px;
+  position: relative;
+  top: -265px;
+  left: -80px;
+  font-family: "Inconsolata", monospace;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+}
+
+#ux {
+  transform: rotate(90deg);
+  position: relative;
+  top: -497px;
+  left: 250px;
+  font-size: 27px;
+  font-family: "Inconsolata", monospace;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+}
+/* essa vai ser da lu */
+
+/* essa vai ser o do griff */
+#imagem5 {
+  width: 240px;
+  height: 350px;
+  position: relative;
+  top: -540px;
+  left: 520px;
+  box-shadow: 0 0 10px #000000;
+}
+
+#Gri {
+  position: relative;
+  top: -503px;
+  left: 280px;
+  font-size: 18px;
+  font-family: "Inconsolata", monospace;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+}
+
+#deve {
+  transform: rotate(90deg);
+  position: relative;
+  top: -738px;
+  left: 610px;
+  font-size: 27px;
+  font-family: "Inconsolata", monospace;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+}
+/* essa vai ser o do griff */
+
+/* essa vai ser do stan */
+#imagem6 {
+  width: 238px;
+  height: 348px;
+  position: relative;
+  top: -1067px;
+  left: 876px;
+  box-shadow: 0 0 10px #000000;
+}
+
+#Sta {
+  position: relative;
+  top: -1035px;
+  left: 633px;
+  font-size: 18px;
+  font-family: "Inconsolata", monospace;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+}
+
+#dev {
+  transform: rotate(90deg);
+  position: relative;
+  top: -1264px;
+  left: 965px;
+  font-size: 27px;
+  font-family: "Inconsolata", monospace;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+}
+/* essa vai ser do stan */
+
+.by {
+  font-size: 16px;
+  font-family: "Inconsolata", monospace;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+  position: relative;
+  color: #aea9a9;
+  top: -400px;
+  left: 535px;
+}
+
+@media screen and (max-width: 375px) and (max-width: 2500px) {
+  @import url("https://fonts.googleapis.com/css2? family= Inconsolata:wght@700 & family= Martian+Mono:wght@100 & family= Montserrat:wght@700 & display=swap");
+
+  @import url("https://fonts.googleapis.com/css2? family= Inconsolata:wght@700 & family= Martian+Mono:wght@100 & family= Montserrat:wght@700 & display=swap");
+
+  @import url("https://fonts.googleapis.com/css2? family= Inconsolata:wght@700 & family= Martian+Mono:wght@100 & family= Montserrat:wght@100 & display=swap");
+
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background-color: #aea9a9;
+    border-radius: 3px;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+  }
+
+  body {
+    background-color: #fafafa;
+    overflow-x: hidden;
+  }
+
+  h2 {
+    position: relative;
+    top: 52px;
+    left: 150px;
+    font-weight: 700;
+    font-size: 35px;
+    font-family: "Inconsolata", monospace;
+    font-family: "Martian Mono", monospace;
+    font-family: "Montserrat", sans-serif;
+    font-size: 36px;
+  }
+
+  p {
+    position: relative;
+    left: 750px;
+    width: 350px;
+    top: 20px;
+    font-size: 18px;
+    font-weight: lighter;
+    font-family: "Inconsolata", monospace;
+    font-family: "Martian Mono", monospace;
+    font-family: "Montserrat", sans-serif;
+  }
+
+  #about {
+    position: relative;
+    left: 750px;
+    top: 7px;
+    font-family: "Inconsolata", monospace;
+    font-family: "Martian Mono", monospace;
+    font-family: "Montserrat", sans-serif;
+  }
+
+  .by {
+    position: relative;
+    top: 550px;
+  }
+  /* essa vai ser a do bill */
+  #imagem1 {
+    width: 250px;
+    height: 348px;
+    position: relative;
+    left: 150px;
+    top: 200px;
+    box-shadow: 0 0 10px #000000;
+  }
+
+  #Bill {
+    position: relative;
+    top: 240px;
+    left: -105px;
+    font-size: 18px;
+    font-family: "Inconsolata", monospace;
+    font-family: "Martian Mono", monospace;
+    font-family: "Montserrat", sans-serif;
+  }
+  #owner {
+    transform: rotate(90deg);
+    position: relative;
+    left: 255px;
+    top: 7px;
+    font-size: 27px;
+    font-weight: 400;
+    font-family: "Inconsolata", monospace;
+    font-family: "Martian Mono", monospace;
+    font-family: "Montserrat", sans-serif;
+  }
+  /* essa vai ser a do bill */
+
+  /* essa vai ser da saba */
+  #imagem2 {
+    width: 248px;
+    height: 347px;
+    position: relative;
+    left: 515px;
+    top: -30px;
+    box-shadow: 0 0 10px #000000;
+  }
+
+  #Saba {
+    position: relative;
+    top: 7px;
+    left: 263px;
+    font-size: 18px;
+    font-family: "Inconsolata", monospace;
+    font-family: "Martian Mono", monospace;
+    font-family: "Montserrat", sans-serif;
+  }
+
+  #art {
+    transform: rotate(90deg);
+    position: relative;
+    top: -225px;
+    left: 615px;
+    font-size: 27px;
+    font-family: "Inconsolata", monospace;
+    font-family: "Martian Mono", monospace;
+    font-family: "Montserrat", sans-serif;
+  }
+  /* essa vai ser da saba */
+
+  /* essa daqui vai ser a do le */
+  #image3 {
+    width: 238px;
+    height: 348px;
+    position: relative;
+    top: -567px;
+    left: 875px;
+    box-shadow: 0 0 10px #000000;
+  }
+
+  #Le {
+    font-size: 18px;
+    position: relative;
+    top: -530px;
+    left: 633px;
+    font-family: "Inconsolata", monospace;
+    font-family: "Martian Mono", monospace;
+    font-family: "Montserrat", sans-serif;
+  }
+
+  #Lead {
+    font-size: 27px;
+    transform: rotate(90deg);
+    position: relative;
+    top: -768px;
+    left: 965px;
+    font-family: "Inconsolata", monospace;
+    font-family: "Martian Mono", monospace;
+    font-family: "Montserrat", sans-serif;
+  }
+  /* essa daqui vai ser a do le */
+
+  /* essa vai ser da lu */
+  #imagem4 {
+    width: 238px;
+    height: 348px;
+    position: relative;
+    top: -300px;
+    left: 160px;
+    box-shadow: 0 0 10px #000000;
+  }
+
+  #Lu {
+    font-size: 18px;
+    position: relative;
+    top: -265px;
+    left: -80px;
+    font-family: "Inconsolata", monospace;
+    font-family: "Martian Mono", monospace;
+    font-family: "Montserrat", sans-serif;
+  }
+
+  #ux {
+    transform: rotate(90deg);
+    position: relative;
+    top: -497px;
+    left: 250px;
+    font-size: 27px;
+    font-family: "Inconsolata", monospace;
+    font-family: "Martian Mono", monospace;
+    font-family: "Montserrat", sans-serif;
+  }
+  /* essa vai ser da lu */
+
+  /* essa vai ser o do griff */
+  #imagem5 {
+    width: 240px;
+    height: 350px;
+    position: relative;
+    top: -540px;
+    left: 520px;
+    box-shadow: 0 0 10px #000000;
+  }
+
+  #Gri {
+    position: relative;
+    top: -503px;
+    left: 280px;
+    font-size: 18px;
+    font-family: "Inconsolata", monospace;
+    font-family: "Martian Mono", monospace;
+    font-family: "Montserrat", sans-serif;
+  }
+
+  #deve {
+    transform: rotate(90deg);
+    position: relative;
+    top: -738px;
+    left: 610px;
+    font-size: 27px;
+    font-family: "Inconsolata", monospace;
+    font-family: "Martian Mono", monospace;
+    font-family: "Montserrat", sans-serif;
+  }
+  /* essa vai ser o do griff */
+
+  /* essa vai ser do stan */
+  #imagem6 {
+    width: 238px;
+    height: 348px;
+    position: relative;
+    top: -1067px;
+    left: 876px;
+    box-shadow: 0 0 10px #000000;
+  }
+
+  #Sta {
+    position: relative;
+    top: -1035px;
+    left: 633px;
+    font-size: 18px;
+    font-family: "Inconsolata", monospace;
+    font-family: "Martian Mono", monospace;
+    font-family: "Montserrat", sans-serif;
+  }
+
+  #dev {
+    transform: rotate(90deg);
+    position: relative;
+    top: -1264px;
+    left: 965px;
+    font-size: 27px;
+    font-family: "Inconsolata", monospace;
+    font-family: "Martian Mono", monospace;
+    font-family: "Montserrat", sans-serif;
+  }
+  /* essa vai ser do stan */
+
+  .by {
+    font-size: 16px;
+    font-family: "Inconsolata", monospace;
+    font-family: "Martian Mono", monospace;
+    font-family: "Montserrat", sans-serif;
+    position: relative;
+    color: #aea9a9;
+    top: -400px;
+    left: 535px;
+  }
+}
